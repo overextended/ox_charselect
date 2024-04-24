@@ -1,0 +1,2 @@
+export const SPAWN_LOCATION = [-258.211, -293.077, 21.6132, 206.0];
+
